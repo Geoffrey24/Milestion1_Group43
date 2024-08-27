@@ -1,21 +1,21 @@
 # Project Plan
 
 ## Project Name: XXXX
-## Group Number: 001
+## Group Number: 43
 
 ### Team members
 
-| Student No. | Full Name | GitHub Username | Contribution (sum to 100%) | 
-|-------------|-----------|-----------------|----------------------------|
-| s111111     | Full name | xxx             | 33.3% or Equal             |
-| s222222     | Full name | xxx             | 33.3% or Equal             | 
-| s333333     | Full name | xxx             | 33.3% or Equal             | 
+| Student No. | Full Name      | GitHub Username | Contribution (sum to 100%) | 
+|-------------|----------------|-----------------|----------------------------|
+| s5329877    | Geofrry Karuga | Geoffrey24            | 50% or Equal               |
+| s222222     | Full name      | xxx             | 33.3% or Equal             | 
+| s333333     | Full name      | xxx             | 33.3% or Equal             | 
 
 ### Brief Description of Contribution
 
 Please Describe what you have accomplished in this group project.
-- s111111, Full name
-  - Accomplishments: Describe what you have completed or achieved
+- s5329877, Geofrry Karuga
+  - Accomplishments: Done project plan overview
 - s222222, Full name
   - Accomplishments: Describe what you have completed or achieved
 - s333333, full name
@@ -30,8 +30,42 @@ Please Describe what you have accomplished in this group project.
 * [Project Plan](#project-plan)
   * [1. Project Overview](#1-project-overview)
     * [1.1 Project Objectives](#11-project-objectives)
+    
+The primary objective of this project is to design, develop, and implement a desktop application that allows users to analyze and visualize nutritional data from a comprehensive database. The application will feature a user-friendly interface to facilitate the following functionalities:
+
+* Food Search: Users can search for food items and retrieve detailed nutritional information.
+* Nutrition Breakdown: Users can visualize the breakdown of nutrients for a selected food item using pie charts and bar graphs.
+* Nutrition Range Filter: Users can filter food items based on specified nutritional ranges.
+* Nutrition Level Filter: Users can categorize foods based on low, mid, and high nutritional content levels.
+* Additional Feature: The team will brainstorm and implement an innovative feature that enhances the application's utility.
     * [1.2 Project Stakeholders](#12-project-stakeholders)
+  
+1) Project Team:
+2) Project Manager
+3) Lead Developer
+4) UI/UX Designer
+5) Data Analyst
+6) Quality Assurance Specialist
+7) End Users: Individuals seeking nutritional information and dietary analysis tools.
+8) Academic Supervisor: Responsible for evaluating the project deliverables and ensuring they meet academic standards.
+9) Institution: The university or educational institution that sets the project guidelines and objectives.
     * [1.3 Project Scope](#13-project-scope)
+   
+The project involves the development of a nutritional data analysis and visualization tool with the following scope:
+
+* In-Scope:
+
+Development of a desktop application with the specified features (Food Search, Nutrition Breakdown, Nutrition Range Filter, Nutrition Level Filter).
+Design and implementation of a graphical user interface (GUI).
+Data preprocessing and integration of the Nutritional_Food_Database.csv.
+Testing and validation of the application for accuracy and usability.
+Documentation of the entire development process, including a project plan, design document, and user manual.
+* Out-of-Scope:
+
+Mobile application development.
+Integration with external APIs or databases beyond the provided CSV file.
+Advanced machine learning or predictive analytics features.
+Ongoing maintenance or updates post-project completion.
   * [2. Work Breakdown Structure](#2-work-breakdown-structure)
   * [3. Activity Definition Estimation](#3-activity-definition-estimation)
   * [4. Gantt Chart](#4-gantt-chart)
