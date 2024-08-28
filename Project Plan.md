@@ -1,25 +1,23 @@
 # Project Plan
 
-## Project Name: XXXX
+## Project Name: Food Nutrition
 ## Group Number: 43
 
-### Team members
+### Team members 
 
-| Student No. | Full Name      | GitHub Username | Contribution (sum to 100%) | 
-|-------------|----------------|-----------------|----------------------------|
-| s5329877    | Geofrry Karuga | Geoffrey24            | 50% or Equal               |
-| s222222     | Full name      | xxx             | 33.3% or Equal             | 
-| s333333     | Full name      | xxx             | 33.3% or Equal             | 
+| Student No. | Full Name            | GitHub Username | Contribution (sum to 100%) | 
+|-------------|----------------------|--------------|--------------------------------
+| s5329877    | Geofrry Karuga       | Geoffrey24   | 50% or Equal               |
+| s5404089    | Mohammad Rashed khan | Rashed1808   | 50%or Equal                |
 
 ### Brief Description of Contribution
 
 Please Describe what you have accomplished in this group project.
 - s5329877, Geofrry Karuga
   - Accomplishments: Done project plan overview
-- s222222, Full name
-  - Accomplishments: Describe what you have completed or achieved
-- s333333, full name
-  - Accomplishments: Describe what you have completed or achieved
+- s5404089, Mohammad khan 
+  - Accomplishments: Design documentation and WBS 
+
 
 <div style="page-break-after: always;"></div>
 
@@ -66,8 +64,137 @@ Mobile application development.
 Integration with external APIs or databases beyond the provided CSV file.
 Advanced machine learning or predictive analytics features.
 Ongoing maintenance or updates post-project completion.
-  * [2. Work Breakdown Structure](#2-work-breakdown-structure)
-  * [3. Activity Definition Estimation](#3-activity-definition-estimation)
+
+
+[2. Work Breakdown Structure]
+
+WBS for our project(Work Breakdown Structure) :
+
+1.Project Planning
+
+* 1.1 Project Plan Overview
+* 1.2 Project Objectives Documentation
+* 1.3 Project Scope Definition
+* 1.4 Stakeholder Identification
+
+2.Design
+
+* 2.1 Design Documentation
+* 2.2 User Interface (UI) Design
+* 2.3 User Experience (UX) Design
+
+3.Data Preprocessing
+
+* 3.1 Nutritional_Food_Database.csv Import
+* 3.2 Data Cleaning and Validation
+* 3.3 Data Integration
+
+4.Development
+
+* 4.1 Desktop Application Development
+* 4.2 Feature Implementation
++ 4.2.1 Food Search
++ 4.2.2 Nutrition Breakdown
++ 4.2.3 Nutrition Range Filter
++ 4.2.4 Nutrition Level Filter
++ 4.2.5 Additional Feature
+* 4.3 Graphical User Interface (GUI) Development
+
+
+5.Testing and Validation
+* 5.1 Unit Testing
+* 5.2 Integration Testing
+* 5.3 User Acceptance Testing (UAT)
+* 5.4 Usability Testing 
+* 
+* Documentation
+* 6.1 Project Plan Documentation
+* 6.2 Design Documentation
+* 6.3 User Manual
+
+
+7.Project Closure
+
+* 7.1 Final Report
+* 7.2 Lessons Learned
+* 7.3 Project Evaluation
+
+  * [3. Activity Definition Estimation]
+ 
+Activity Definition and Estimation
+
+3.1 Project Planning
+
+Activity: Develop Project Plan
+Description: Define project scope, objectives, and stakeholders
+Estimated Duration: 2 days
+Resources: Project Manager, Team Leads
+
+Activity: Define Project Scope
+Description: Identify in-scope and out-of-scope tasks
+Estimated Duration: 2 days
+Resources: Project Manager, Team Leads
+
+
+3.2 Design
+
+Activity: Develop Design Documentation
+Description: Create UI/UX design documents
+Estimated Duration: 3 days
+Resources: UI/UX Designer
+
+Activity: Develop GUI Prototype
+Description: Create a clickable GUI prototype
+Estimated Duration: 2 days
+Resources: UI/UX Designer
+
+3.3 Data Preprocessing
+
+Activity: Import Nutritional Food Database
+Description: Import CSV file into application
+Estimated Duration: 2 days
+Resources: Data Analyst
+
+Activity: Clean and Validate Data
+Description: Ensure data accuracy and consistency
+Estimated Duration: 3 days
+Resources: Data Analyst
+
+3.4 Development
+
+Activity: Develop Desktop Application
+Description: Build the desktop application
+Estimated Duration: 6 days
+Resources: Lead Developer, Development Team
+
+Activity: Implement Features
+Description: Implement food search, nutrition breakdown, etc.
+Estimated Duration: 5 days
+Resources: Lead Developer, Development Team
+
+3.5 Testing and Validation
+
+Activity: Unit Testing
+Description: Test individual components
+Estimated Duration: 2 days
+Resources: QA Specialist
+
+Activity: Integration Testing
+Description: Test integrated components
+Estimated Duration: 3 days
+Resources: QA Specialist
+
+3.6 Documentation
+
+Activity: Develop User Manual
+Description: Create user documentation
+Estimated Duration: 3 days
+Resources: Technical Writer
+
+Activity: Develop Project Report
+Description: Document project progress and outcomes
+Estimated Duration: 2 days
+Resources: Project Manager
   * [4. Gantt Chart](#4-gantt-chart)
 
 
