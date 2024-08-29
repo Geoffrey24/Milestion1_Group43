@@ -196,6 +196,7 @@ Description: Document project progress and outcomes
 Estimated Duration: 2 days
 Resources: Project Manager
   * [4. Gantt Chart](#4-gantt-chart)
+[Gantt food NUTRITION .xls![Screenshot 2024-08-30 at 12.55.30 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-08-30%20at%2012.55.30%E2%80%AFAM.png)x](..%2F..%2F..%2FDesktop%2FGantt%20food%20NUTRITION%20.xlsx)
 
 
 <div style="page-break-after: always;"></div>
@@ -239,4 +240,4 @@ Use the provided Gantt chart template to list all items from the Activity Defini
 and scheduling. Ensure that the Gantt chart reflects the activity definitions from Section 3. Track actual start 
 times and durations. Besides including Gantt chart here, you should also submit your Gantt chart file separately.
 ![Gantt Chart](./Gantt_chart.png)
-
+![Screenshot 2024-08-30 at 12.55.30 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-08-30%20at%2012.55.30%E2%80%AFAM.png)
