@@ -14,7 +14,7 @@
 
 Please Describe what you have accomplished in this group project.
 - s5329877, Geofrry Karuga
-  - Accomplishments: Done project plan overview
+  - Accomplishments: Done Create Github respiratories, project plan overview, System vision and Overview
 - s5404089, Mohammad khan 
   - Accomplishments: Done Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION
 
