@@ -16,7 +16,7 @@ Please Describe what you have accomplished in this group project.
 - s5329877, Geofrry Karuga
   - Accomplishments: Done project plan overview
 - s5404089, Mohammad khan 
-  - Accomplishments: Design documentation and WBS 
+  - Accomplishments: Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION
 
 
 <div style="page-break-after: always;"></div>
@@ -195,9 +195,9 @@ Activity: Develop Project Report
 Description: Document project progress and outcomes
 Estimated Duration: 2 days
 Resources: Project Manager
-  * [4. Gantt Chart](#4-gantt-chart)
+  * [4. Gantt Chart](![Screenshot 2024-08-30 at 12.55.30 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-08-30%20at%2012.55.30%E2%80%AFAM.png))
 [Gantt food NUTRITION .xls![Screenshot 2024-08-30 at 12.55.30 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-08-30%20at%2012.55.30%E2%80%AFAM.png)x](..%2F..%2F..%2FDesktop%2FGantt%20food%20NUTRITION%20.xlsx)
-
+[Gantt food NUTRITION .xlsx](..%2F..%2F..%2FDesktop%2FGantt%20food%20NUTRITION%20.xlsx)
 
 <div style="page-break-after: always;"></div>
 
@@ -221,17 +221,19 @@ Define and manage what is included or excluded in the project and product.
 
 Include the Work Breakdown Structure (WBS) for the entire project. WBS should be presented as a hierarchical diagram. Use the elements from the WBS to define activities in Section 3, and schedule these activities in the Gantt Chart in Section 4. Ensure all project activities are considered and included in the WBS.
 
-![WBS](./WBS.jpg)
+![WBS][WBS (FOOD NUTRITION).xlsx](..%2F..%2F..%2FDesktop%2FWBS%20%28FOOD%20NUTRITION%29.xlsx)
+
 
 ## 3. Activity Definition Estimation
 
 Define the activities required for your project based on the WBS, and assign responsibilities to team members. Each activity should be numbered and correspond with your Gantt chart. Provide estimated durations for each activity to facilitate Gantt chart preparation.
 
-| Activity #No | Activity Name | Brief Description | Duration | Responsible Team Members |
-|--------------|---------------|-------------------|----------|--------------------------|
-| xxx          | xxx           | xxx               | xxx      | xxx \& yyy               |
-| xxxx         | xxx           | xxx               | xxx      | All                      |
-| xxxx         | xxx           | xxx               | xxx      | xxx                      |
+| Activity #No | Activity Name | Brief Description           | Duration | Responsible Team Members |
+|--------------|--------------|-----------------------------|----------|--------------------------|
+| 1            | project plan | planning and documentations | 4        | Geoffrey                 |
+| 2            | wbs          | whole work structure        | 3        | mohammad                 |
+| 3            | ghant chat   | visual representation       | 2        | mohammad                 |
+
 
 ## 4. Gantt Chart
 You have to use the provided Gantt chart template.  
