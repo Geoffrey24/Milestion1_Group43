@@ -16,7 +16,7 @@ Please Describe what you have accomplished in this group project.
 - s5329877, Geofrry Karuga
   - Accomplishments: Done project plan overview
 - s5404089, Mohammad khan 
-  - Accomplishments: Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION
+  - Accomplishments: Done Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION
 
 
 <div style="page-break-after: always;"></div>
@@ -228,11 +228,11 @@ Include the Work Breakdown Structure (WBS) for the entire project. WBS should be
 
 Define the activities required for your project based on the WBS, and assign responsibilities to team members. Each activity should be numbered and correspond with your Gantt chart. Provide estimated durations for each activity to facilitate Gantt chart preparation.
 
-| Activity #No | Activity Name | Brief Description           | Duration | Responsible Team Members |
-|--------------|--------------|-----------------------------|----------|--------------------------|
-| 1            | project plan | planning and documentations | 4        | Geoffrey                 |
-| 2            | wbs          | whole work structure        | 3        | mohammad                 |
-| 3            | ghant chat   | visual representation       | 2        | mohammad                 |
+| Activity #No | Activity Name | Brief Description            | Duration | Responsible Team Members |
+|--------------|---------------|------------------------------|----------|--------------------------|
+| 1            | project plan  | planning and documentations  | 4   days | Geoffrey                 |
+| 2            | WBS           | whole work structure on xl   | 3   days | mohammad khan            |
+| 3            | Ghant Chat    | visual representation on xl  | 2   days | mohammad khan            |
 
 
 ## 4. Gantt Chart
