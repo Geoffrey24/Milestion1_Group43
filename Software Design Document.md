@@ -1,6 +1,6 @@
 # Software Design Document
 
-## Project Name: Group_43
+## Project Name: Food NUTRITION 
 ## Group Number: 43
 
 ## Team members
@@ -8,8 +8,8 @@
 | Student Number | Name           | 
 |----------------|----------------|
 | s5329877       | Geofrry Karuga |
-| s222222        | Full name      | 
-| s333333        | Full name      | 
+| s5404089       | MOHAMMAD KHAN  | 
+|       |     | 
 
 
 <div style="page-break-after: always;"></div>
