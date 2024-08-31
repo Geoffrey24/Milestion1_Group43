@@ -368,6 +368,11 @@ Include all wireframes or mock-ups of the interface. Provide a discussion, expla
 
 Example:  
 ![Visual Design](./visual_design.png)
+![Screenshot 2024-09-01 at 1.26.43 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-09-01%20at%201.26.43%E2%80%AFAM.png)
+screenshot provided :
+
+![Screenshot 2024-09-01 at 1.26.43 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-09-01%20at%201.26.43%E2%80%AFAM.png)
+
 
 1.Main Dashboard
 Components:
