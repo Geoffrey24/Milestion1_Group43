@@ -222,7 +222,7 @@ Define and manage what is included or excluded in the project and product.
 Include the Work Breakdown Structure (WBS) for the entire project. WBS should be presented as a hierarchical diagram. Use the elements from the WBS to define activities in Section 3, and schedule these activities in the Gantt Chart in Section 4. Ensure all project activities are considered and included in the WBS.
 
 ![WBS][WBS (FOOD NUTRITION).xlsx](..%2F..%2F..%2FDesktop%2FWBS%20%28FOOD%20NUTRITION%29.xlsx)
-
+[WBS (FOOD NUTRITION).xlsx](..%2F..%2F..%2FDesktop%2FWBS%20%28FOOD%20NUTRITION%29.xlsx)
 
 ## 3. Activity Definition Estimation
 
@@ -243,3 +243,4 @@ and scheduling. Ensure that the Gantt chart reflects the activity definitions fr
 times and durations. Besides including Gantt chart here, you should also submit your Gantt chart file separately.
 ![Gantt Chart](./Gantt_chart.png)
 ![Screenshot 2024-08-30 at 12.55.30 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-08-30%20at%2012.55.30%E2%80%AFAM.png)
+[Gantt food NUTRITION .xlsx](..%2F..%2F..%2FDesktop%2FGantt%20food%20NUTRITION%20.xlsx)
