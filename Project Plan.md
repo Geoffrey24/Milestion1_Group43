@@ -6,9 +6,11 @@
 ### Team members 
 
 | Student No. | Full Name            | GitHub Username | Contribution (sum to 100%) | 
-|-------------|----------------------|--------------|--------------------------------
-| s5329877    | Geofrry Karuga       | Geoffrey24   | 50% or Equal               |
-| s5404089    | Mohammad Rashed khan | Rashed1808   | 50%or Equal                |
+|-------------|----------------------|-----------------|----------------------------
+| s5329877    | Geofrry Karuga       | Geoffrey24      | 50% or Equal               |
+| s5404089    | Mohammad Rashed khan | Rashed1808      | 50%or Equal                |
+| s5404089    | Micheal   Piva       |                 | 0%                         |
+
 
 ### Brief Description of Contribution
 
@@ -242,5 +244,3 @@ Use the provided Gantt chart template to list all items from the Activity Defini
 and scheduling. Ensure that the Gantt chart reflects the activity definitions from Section 3. Track actual start 
 times and durations. Besides including Gantt chart here, you should also submit your Gantt chart file separately.
 ![Gantt Chart](./Gantt_chart.png)
-![Screenshot 2024-08-30 at 12.55.30 AM.png](..%2F..%2F..%2FDesktop%2FScreenshot%202024-08-30%20at%2012.55.30%E2%80%AFAM.png)
-[Gantt food NUTRITION .xlsx](..%2F..%2F..%2FDesktop%2FGantt%20food%20NUTRITION%20.xlsx)
