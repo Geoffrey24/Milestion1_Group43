@@ -1,7 +1,7 @@
 # Coverage Testing Report
 
 Please provide your GitHub repository link.
-### GitHub Repository URL: https://github.com/XXXX/XXXXX.git
+### GitHub Repository URL: https://github.com/Geoffrey24/Milestone1_Group43
 
 ---
 
@@ -11,13 +11,16 @@ the five required features.</span> There is no need to test the GUI components. 
 You should perform statement coverage testing and branch coverage testing. For each type, provide a description and an analysis explaining how you evaluated the coverage.
 
 ## 1. **Test Summary**
-list all tested functions related to the five required features, for example:
+list all tested functions related to the five required features:
 
-| **Tested Functions** |
+| **Tested Functions** |  
 |----------------------|
-| `add(x1,x2)`         | 
-| `divide(x1,x2)`      |
-| `...`                |
+| `search_food(food_name)`         | 
+| `get_nutrient_breakdown(food_item)`      |
+| `filter_by_nutrient_range(min, max)` |
+| `categorize_by_nutrient_level(food_list, level)` |
+| `calculate_total_nutrients(food_list)` |
+
 
 ---
 

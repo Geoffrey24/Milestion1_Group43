@@ -1,19 +1,20 @@
 # Executive Summary
 
 Please provide your GitHub repository link.
-### GitHub Repository URL: https://github.com/XXXX/XXXXX.git
+### GitHub Repository URL:  https://github.com/Geoffrey24/Milestone1_Group43.git
 
 ---
 
-You should use your software to prepare an executive summary as outlined below for the five required features.
 
-## 1. [Feature 1 Name]
+## 1. Food Search
 ### Description  
-Briefly describe what this feature does.
-
+ This feature allows users to search for food items in the database and retrieve detailed nutritional information. It acts as the primary interface for users to find specific foods and access data such as calories, fats, proteins, carbohydrates, and vitamins.
 ### Steps
-1. Step-by-step instructions for using this feature.
-2. Add additional steps as needed.
+1. Navigate to the Food 
+2. Search tab in the application. 
+3. Enter the name of the food item you wish to search for. 
+4. Click on the Search button. 
+5. View the displayed nutritional information for the selected food item
 
 ### Screenshots
 Include screenshots for each step demonstrating the use of this feature.  
@@ -23,13 +24,14 @@ Include screenshots for each step demonstrating the use of this feature.
 
 ---
 
-## 2. [Feature 2 Name]
+## 2. Nutrition Breakdown
 ### Description  
-Briefly describe what this feature does.
-
+The Nutrition Breakdown feature visualizes the distribution of nutrients for any selected food item. Users can view the proportions of different nutrients such as fats, proteins, and carbohydrates in graphical formats like pie charts and bar graphs.
 ### Steps
-1. Step-by-step instructions for using this feature.
-2. Add additional steps as needed.
+1. After performing a food search, select a food item from the results. 
+2. Click on the "Nutrition Breakdown" option. 
+3. View the pie chart and bar graph displaying the proportion of each nutrient. 
+4. Hover over or click specific sections to get additional details on each nutrient.
 
 ### Screenshots
 Include screenshots for each step demonstrating the use of this feature.  

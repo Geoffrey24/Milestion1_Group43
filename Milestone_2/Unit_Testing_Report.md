@@ -1,23 +1,30 @@
 # Unit Testing Report
 
-Please provide your GitHub repository link.
-### GitHub Repository URL: https://github.com/XXXX/XXXXX.git
+
+### GitHub Repository URL: https://github.com/Geoffrey24/Milestone1_Group43
 
 ---
 
 The testing report should focus solely on <span style="color:red"> testing all the self-defined functions related to 
 the five required features.</span> There is no need to test the GUI components. Therefore, it is essential to decouple your code and separate the logic from the GUI-related code.
 
+**Five self defined functions are:**
+1. Food Search 
+2. Nutrition Breakdown
+3. Nutrition Range Filter
+4. Nutrition Level Filter
+5. Additional Feature
 
 ## 1. **Test Summary**
-list all tested functions related to the five required features and the corresponding test functions designed to test 
-those functions, for example:
+The table below lists all the self-defined functions corresponding to the five required features of the application and the test functions designed to validate them.
 
-| **Tested Functions** | **Test Functions**                               |
-|----------------------|--------------------------------------------------|
-| `add(x1,x2)`         | `test_add_valid()` <br> `test_add_invalid`       |
-| `divide(x1,x2)`      | `test_divide_valid()` <br> `test_divide_invalid` |
-| `...`                | `...`                                            |
+| **Tested Functions** | **Test Functions**                                                                                                                         |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| `search_food_item(query)`         | `test_search_food_item_valid()` <br>  `test_search_food_item_invalid()`                                                                    |
+| `get_nutrition_breakdown(food)`   | `test_get_nutrition_breakdown_valid()` <br>  `test_get_nutrition_breakdown_invalid()`                                                      |
+| `filter_by_nutrient_range(min, max)` | `test_filter_by_nutrient_range_valid()` <br>  `test_filter_by_nutrient_range_invalid()`                                                    |
+| `categorize_nutritional_level(nutrient)` | `test_categorize_nutritional_level_low()` <br>  `test_categorize_nutritional_level_mid()`  <br> `test_categorize_nutritional_level_high()` |
+| `additional_feature_function()`         | `test_additional_feature_valid()` <br>  `test_additional_feature_invalid()`                                                                  |
 
 ---
 
