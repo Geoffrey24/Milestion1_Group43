@@ -28,7 +28,7 @@ list all tested functions related to the five required features:
 
 ### 2.1 Description
 
-Explain how you designed the test cases (i.e., test_all_functions.py) to reach 100% statement coverage.
+The test cases are designed to reach 100% statement coverage as they exercise every line in each function to determine wheter the function meets the coverage report or not. Each test case is directly testing a hard coded function to ensure the projects functions operate as intended. The test cases produce a covergae report to ensure the functions are tested 100% and function as intended.
 
 ### 2.2 Testing Results
 You can use the following command to run the statement coverage test and generate the report in the terminal. Afterward, include a screenshot of the report. 
@@ -36,7 +36,7 @@ You can use the following command to run the statement coverage test and generat
 You must provide the test_all_functions.py file, which contains all test functions, otherwise pytest will not be able to execute the tests.
 
 ```commandline
-pytest --cov=all_functions --cov-report=term
+pytest --cov=all_functionsM2.py --cov-report=term
 ```
 Note: In the command above, the file/module `all_functions` does not include the .py extension. all_functions.py should contain all the tested functions related to the five required features.
 
