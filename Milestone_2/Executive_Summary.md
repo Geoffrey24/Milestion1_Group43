@@ -41,13 +41,16 @@ Include screenshots for each step demonstrating the use of this feature.
 
 ---
 
-## 3. [Feature 3 Name]
+## 3. [Filter by nutrition breakdown]
 ### Description  
-Briefly describe what this feature does.
+This function allows the user to filter their search results with a minimum and maxium in categories such as calories and carbohydrates to receive a more customised result. This function will be usable next to the search button for user useability.
 
 ### Steps
-1. Step-by-step instructions for using this feature.
-2. Add additional steps as needed.
+1. Click "Filter" 
+2. Select which nutrient you would like to filter by
+3. Set a minimum and maximum
+4. Click search
+
 
 ### Screenshots
 Include screenshots for each step demonstrating the use of this feature.    
