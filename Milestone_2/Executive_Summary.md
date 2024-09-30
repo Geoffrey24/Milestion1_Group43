@@ -41,7 +41,7 @@ Include screenshots for each step demonstrating the use of this feature.
 
 ---
 
-## 3. [Filter by nutrition breakdown]
+## 3. Filter by nutrition breakdown
 ### Description  
 This function allows the user to filter their search results with a minimum and maxium in categories such as calories and carbohydrates to receive a more customised result. This function will be usable next to the search button for user useability.
 
@@ -61,13 +61,15 @@ Include screenshots for each step demonstrating the use of this feature.
 
 ---
 
-## 4. [Feature 4 Name]
+## 4. Categorize by nutrient level 
 ### Description  
-Briefly describe what this feature does.
+By using a predefined threshold for low, medium and high will allow the user to search for a food and recieve an output of the foods nutrients categorized into these pre defined thresholds. It will clearly show the user which foods are high in certain nutrients and which are low. 
 
 ### Steps
-1. Step-by-step instructions for using this feature.
-2. Add additional steps as needed.
+1. Select the "Categorize" button located near the search button
+2. Search for a food
+3. CLick on the food
+4. A table will be produced with the low, meduim and high contents of that food 
 
 ### Screenshots
 Include screenshots for each step demonstrating the use of this feature.    
