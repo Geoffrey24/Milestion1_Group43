@@ -41,6 +41,7 @@ Note: In the command above, the file/module `all_functions` does not include the
 
 ## 3. **Branch Coverage Test**
 
+
 ### 3.1 Description
 
 Explain how you designed the test cases (i.e., test_all_functions.py) to reach 100% branch coverage.
