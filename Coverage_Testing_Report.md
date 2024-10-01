@@ -80,8 +80,36 @@ Single Item: Added a test with just one food item to confirm it returns the corr
 Coverage Achieved: All branches are tested, confirming the function handles various input scenarios correctly.
 
 ### 3.2 Testing Results
-![img_1.png](img_1.png)
+<img alt="img_1.png" src="img_1.png"/>
 ![Screenshot 2024-10-02 at 12.05.38 AM.png](..%2F..%2FDesktop%2FScreenshot%202024-10-02%20at%2012.05.38%E2%80%AFAM.png)
+![Screenshot 2024-10-02 at 12.05.38 AM.png](..%2F..%2FDesktop%2FScreenshot%202024-10-02%20at%2012.05.38%E2%80%AFAM.png)
+
+/opt/miniconda3/bin/python /Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pycharm/_jb_pytest_runner.py --path /Users/rashedkhan/PycharmProjects/Milestone1_Group43/test_all_functions.py 
+Testing started at 12:16 am ...
+Launching pytest with arguments /Users/rashedkhan/PycharmProjects/Milestone1_Group43/test_all_functions.py --no-header --no-summary -q in /Users/rashedkhan/PycharmProjects/Milestone1_Group43
+
+============================= test session starts ==============================
+collecting ... collected 5 items
+
+test_all_functions.py::test_search_food PASSED                           [ 20%]
+test_all_functions.py::test_get_nutrient_breakdown PASSED                [ 40%]
+test_all_functions.py::test_filter_by_nutrient_range PASSED              [ 60%]
+test_all_functions.py::test_categorize_by_nutrient_level PASSED          [ 80%]
+test_all_functions.py::test_calculate_total_nutrients PASSED             [100%]
+
+============================== 5 passed in 0.02s ===============================
+
+Process finished with exit code 0
+
+
+
+
+
+
+
+
+
+
 
 You can use the following command to run the branch coverage test and generate the report in the terminal. Afterward, include a screenshot of the report. 
 
