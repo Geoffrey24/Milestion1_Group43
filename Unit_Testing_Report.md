@@ -217,8 +217,33 @@ Include a screenshot of unit_test.html showing the results of all the above test
 
 You can use the following command to run the unit tests and generate the unit_test.html report.
 
+
+test report:
+
+This testing report summarizes the results of unit tests conducted on the functionality of the nutrient calculation features implemented in the application. The tests were designed to validate five key functions: search_food, get_nutrient_breakdown, filter_by_nutrient_range, categorize_by_nutrient_level, and calculate_total_nutrients. Each function was tested for correctness and robustness, ensuring that it handles both valid and edge case inputs effectively.
+
+Testing Methodology
+To perform the tests, the following command was executed in the terminal:
+
+command line 
+
+pytest test_all_functions.py --html=unit_test.html --self-contained-html
+
+This command runs all the test functions defined in test_all_functions.py and generates an HTML report (unit_test.html) showcasing the test results.
+
+Key Features Tested
+search_food(food_name): Verified that the function correctly returns food names or error messages.
+get_nutrient_breakdown(food_item): Confirmed that it retrieves accurate nutrient data for specified food items.
+filter_by_nutrient_range(food_list, min_value, max_value): Tested its ability to filter food items based on calorie content accurately.
+categorize_by_nutrient_level(food_list, level): Ensured that food items were correctly categorized based on their calorie levels.
+calculate_total_nutrients(food_list): Validated the summation of nutrient values, including handling of missing keys in the input data.
+Test Results
+The results of the unit tests are presented in the attached screenshot. All functions passed their respective tests, demonstrating that the implementation meets the expected functionality.
+
 ```commandline
 pytest test_all_functions.py --html=unit_test.html --self-contained-html
+
+
 ```
 Note: test_all_functions.py should contain all the test functions designed to test the self-defined functions related 
 to the five required features.
