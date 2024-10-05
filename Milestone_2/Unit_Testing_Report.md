@@ -176,10 +176,10 @@ def categorize_by_nutrient_level_valid():
 ```
 - **2) Invalid Input and Expected Output**
 
-| **Invalid Input**             | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 0)`               | `Handle Exception`  |
-| `add more cases in necessary` | `...`               |
+| **Invalid Input**                    | **Expected Output** |
+|--------------------------------------|---------------------|
+| `categorize_by_nutrient_level(10)`   | `"Invalid input`    |
+
 
 - **2) Code for the Test Function**
 ```python
