@@ -188,12 +188,17 @@ def test_categorize_by_nutrient_level_invalid():
 ```
 
 
+
+
+
+
+
 ### Test Case 5:
 - **Test Function/Module**
-  - `test_divide_valid()`
-  - `test_divide_invalid()`
+  - `test_calculate_total_nutrients_valid()`
+  - `test_calculate_total_nutrients_invalid()`
 - **Tested Function/Module**
-  - `divide(a, b)`
+  - `test_calculate_total_nutrients(a, b)`
 - **Description**
   - A brief description of the tested function's usage, including its purpose, input, and output.
 - **1) Valid Input and Expected Output**  
