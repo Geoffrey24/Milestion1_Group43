@@ -169,9 +169,10 @@ def test_filter_by_nutrient_range_invalid():
 
 - **1) Code for the Test Function**
 ```python
-def test_divide_valid():
-    assert divide(10, 2) == 5
-    assert divide(10, -2) == -5
+def categorize_by_nutrient_level_valid():
+    assert categorize_by_nutrient_level(food_list, "low") == [{"name": "Orange", "calories": 40}]
+    assert categorize_by_nutrient_level(food_list, "medium") == [{"name": "Cheese", "calories": 50}]
+    assert categorize_by_nutrient_level(food_list, "high") == [{"name": "Chicken", "calories": 150}]
 ```
 - **2) Invalid Input and Expected Output**
 
