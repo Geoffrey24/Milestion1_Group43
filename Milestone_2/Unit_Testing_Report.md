@@ -198,35 +198,36 @@ def test_categorize_by_nutrient_level_invalid():
   - `test_calculate_total_nutrients_valid()`
   - `test_calculate_total_nutrients_invalid()`
 - **Tested Function/Module**
-  - `test_calculate_total_nutrients(a, b)`
+  - `test_calculate_total_nutrients(input)`
 - **Description**
-  - A brief description of the tested function's usage, including its purpose, input, and output.
+  - th purpose of the this test case is to check whether or not the calcute total nutrients functoion has correct parameters and works within the systems capabilites. If not the system will create an error and say "invalid input". The input is the users value while the output is the calculated total nutrients based off the users input. 
 - **1) Valid Input and Expected Output**  
 
-| **Valid Input**               | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 2)`               | `5`                 |
-| `divide(10, -2)`              | `-5`                |
-| `add more cases in necessary` | `...`               |
+| **Valid Input**                                   | **Expected Output**                                   |
+|---------------------------------------------------|-------------------------------------------------------|
+| `test_calculate_total_nutrients(Cheese, Chicken)` | `total == {"calories": 200, "carbs": 37, "fat": 1}`   |
+         
+
 
 - **1) Code for the Test Function**
 ```python
-def test_divide_valid():
-    assert divide(10, 2) == 5
-    assert divide(10, -2) == -5
+def test_calculate_total_nutrients_valid():
+  assert test_calculate_total_nutrients(Cheese,Chicken)
+  total == {"calories": 200, "carbs": 37, "fat": 1}
+    
 ```
 - **2) Invalid Input and Expected Output**
 
-| **Invalid Input**             | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 0)`               | `Handle Exception`  |
-| `add more cases in necessary` | `...`               |
+| **Invalid Input**                  | **Expected Output** |
+|------------------------------------|---------------------|
+| `test_calculate_total_nutrients(8)`| `invalid input`     |
+
 
 - **2) Code for the Test Function**
 ```python
-def test_divide_invalid():
+def test_calculate_total_nutrients_invalid():
     with pytest.raises(ValueError) as exc_info:
-        divide(10, 0)
+        test_calculate_total_nutrients(10, 0) == "invalid input"
     assert exc_info.type is ValueError
 ```
 
