@@ -112,56 +112,60 @@ def test_get_nutrient_breakdown_invalid(food_item):
 
 ### Test Case 3:
 - **Test Function/Module**
-  - `test_divide_valid()`
-  - `test_divide_invalid()`
+  - `test_filter_by_nutrient_range_valid()`
+  - `test_filter_by_nutrient_range_invalid()`
 - **Tested Function/Module**
-  - `divide(a, b)`
+  - `test_filter_by_nutrient_range(min, max)`
 - **Description**
-  - A brief description of the tested function's usage, including its purpose, input, and output.
+  - The purpose of this test to to check whether the filter by nutrient range function is valid and has appropriate parameters, the input is a min and a max and the output is a valid or in invalid. 
 - **1) Valid Input and Expected Output**  
 
-| **Valid Input**               | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 2)`               | `5`                 |
-| `divide(10, -2)`              | `-5`                |
-| `add more cases in necessary` | `...`               |
+| **Valid Input**                           | **Expected Output** |
+|-------------------------------------------|---------------------|
+| `test_filter_by_nutrient_range(10, 50)`   | `valid input `      |
+| `test_filter_by_nutrient_range(3, 6)`     | `valid input`       |
+
 
 - **1) Code for the Test Function**
 ```python
-def test_divide_valid():
-    assert divide(10, 2) == 5
-    assert divide(10, -2) == -5
+def test_filter_by_nutrient_range_valid():
+    assert test_filter_by_nutrient_range(10, 50) == "valid input"
+    assert test_filter_by_nutrient_range(1, 7) == "valid input"
 ```
 - **2) Invalid Input and Expected Output**
 
-| **Invalid Input**             | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 0)`               | `Handle Exception`  |
-| `add more cases in necessary` | `...`               |
+| **Invalid Input**                   | **Expected Output** |
+|-------------------------------------|---------------------|
+| `test_filter_by_nutrient_range(A,8)`| `invalid input`     |
+
 
 - **2) Code for the Test Function**
 ```python
-def test_divide_invalid():
-    with pytest.raises(ValueError) as exc_info:
-        divide(10, 0)
+def test_filter_by_nutrient_range_invalid():
+    assert test_filter_by_nutrient_range($, 7) == "invalid input"
     assert exc_info.type is ValueError
 ```
+
+
+
+
+
 
 ### Test Case 4:
 - **Test Function/Module**
-  - `test_divide_valid()`
-  - `test_divide_invalid()`
+  - `test_categorize_by_nutrient_level_valid()`
+  - `test_categorize_by_nutrient_level_invalid()`
 - **Tested Function/Module**
-  - `divide(a, b)`
+  - `test_categorize_by_nutrient_level(input)`
 - **Description**
-  - A brief description of the tested function's usage, including its purpose, input, and output.
+  - This function categorize's the input into a small, medium and large sub category based ona  predetermined size and the users input. It requires a search/input to categorize the results as an output. 
 - **1) Valid Input and Expected Output**  
 
-| **Valid Input**               | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 2)`               | `5`                 |
-| `divide(10, -2)`              | `-5`                |
-| `add more cases in necessary` | `...`               |
+| **Valid Input**                            | **Expected Output**                                                |
+|--------------------------------------------|--------------------------------------------------------------------|
+| `test_categorize_by_nutrient_level(Orange)`| `("valid input", "low") == [{"name": "Orange", "calories": 40}]`   |
+| `test_categorize_by_nutrient_level(Cheese)`| `("valid input", "medium") == [{"name": "Cheese", "calories": 50}]`|
+
 
 - **1) Code for the Test Function**
 ```python
@@ -178,10 +182,9 @@ def test_divide_valid():
 
 - **2) Code for the Test Function**
 ```python
-def test_divide_invalid():
-    with pytest.raises(ValueError) as exc_info:
-        divide(10, 0)
-    assert exc_info.type is ValueError
+def test_categorize_by_nutrient_level_invalid():
+        test_categorize_by_nutrient_level(8594$#) == ("invalid Input")
+        assert exc_info.type is ValueError
 ```
 
 
@@ -221,10 +224,6 @@ def test_divide_invalid():
         divide(10, 0)
     assert exc_info.type is ValueError
 ```
-
-### Test Case 6:
-
-add more test cases if necessary.
 
 ## 3. **Testing Report Summary**
 Include a screenshot of unit_test.html showing the results of all the above tests. 
