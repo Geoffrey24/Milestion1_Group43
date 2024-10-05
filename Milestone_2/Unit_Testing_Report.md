@@ -178,7 +178,7 @@ def categorize_by_nutrient_level_valid():
 
 | **Invalid Input**                    | **Expected Output** |
 |--------------------------------------|---------------------|
-| `categorize_by_nutrient_level(10)`   | `"Invalid input`    |
+| `categorize_by_nutrient_level(10)`   | `"Invalid input"`    |
 
 
 - **2) Code for the Test Function**
