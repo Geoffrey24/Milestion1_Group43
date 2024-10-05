@@ -32,76 +32,83 @@ The table below lists all the self-defined functions corresponding to the five r
 
 ### Test Case 1:
 - **Test Function/Module**
-  - `test_divide_valid()`
-  - `test_divide_invalid()`
+  - `test_check_input_valid()`
+  - `test_check_input_invalid()`
 - **Tested Function/Module**
-  - `divide(a, b)`
+  - `check_input(input)`
 - **Description**
-  - A brief description of the tested function's usage, including its purpose, input, and output.
+  - the check_input(input) function checks if the input is a valid string or not. It returns a print argument saying "input not valid try again" to let the user know there input was not valid. 
 - **1) Valid Input and Expected Output**  
 
 | **Valid Input**               | **Expected Output** |
 |-------------------------------|---------------------|
-| `divide(10, 2)`               | `5`                 |
-| `divide(10, -2)`              | `-5`                |
-| `add more cases in necessary` | `...`               |
+| `check_input(apple)`          | `apple`             |
+| `check_input(chicken)`        | `chicken`           |
+| `check_input(banana)`         | `banana`            |
 
 - **1) Code for the Test Function**
 ```python
-def test_divide_valid():
-    assert divide(10, 2) == 5
-    assert divide(10, -2) == -5
+def test_check_input_valid(input)
+    assert search_food-valid("cheese") == "Cheese"
+    assert search_food_valid("chicken") == "Chicken"
+    
 ```
 - **2) Invalid Input and Expected Output**
 
 | **Invalid Input**             | **Expected Output** |
 |-------------------------------|---------------------|
-| `divide(10, 0)`               | `Handle Exception`  |
-| `add more cases in necessary` | `...`               |
+| `check_input(table)`          | `Food Not Found `   |
+| `check_input(4594859)`        | `Food Not Found`    |
 
 - **2) Code for the Test Function**
 ```python
-def test_divide_invalid():
-    with pytest.raises(ValueError) as exc_info:
-        divide(10, 0)
+def test_check_input_invalid(input)
+    assert search_food_invalid("table") == "Food Not Found"
     assert exc_info.type is ValueError
 ```
+
+
+
 ### Test Case 2:
 - **Test Function/Module**
-  - `test_divide_valid()`
-  - `test_divide_invalid()`
+  - `test_get_nutrition_breakdown_valid()`
+  - `test_get_nutrition_breakdown_invalid()`
 - **Tested Function/Module**
-  - `divide(a, b)`
+  - `test_get_nutrition_breakdown(input)`
 - **Description**
-  - A brief description of the tested function's usage, including its purpose, input, and output.
+  - this test checks if the input is valid and ensures the nutrition breakdown is provided, the input is the users search and the output is the nutrition breakdown or an error "food not food"
 - **1) Valid Input and Expected Output**  
 
-| **Valid Input**               | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 2)`               | `5`                 |
-| `divide(10, -2)`              | `-5`                |
-| `add more cases in necessary` | `...`               |
+| **Valid Input**                        | **Expected Output**                                          |
+|----------------------------------------|--------------------------------------------------------------|
+| `test_get_nutrition_breakdown(Cheese)` | `{"calories": 50, "carbs": 14, "fat": 0.8}`                  |
+| `test_get_nutrition_breakdown(Chicken)`| `{"calories": 150, "carbs": 23, "fat": 0.2}`                 |
+
 
 - **1) Code for the Test Function**
 ```python
-def test_divide_valid():
-    assert divide(10, 2) == 5
-    assert divide(10, -2) == -5
+def test_get_nutrient_breakdown_valid(input):
+    assert get_nutrient_breakdown_valid("Cheese") == {"calories": 50, "carbs": 14, "fat": 0.8}
+    assert get_nutrient_breakdown_valid("Chicken") == {"calories": 150, "carbs": 23, "fat": 0.2}
 ```
 - **2) Invalid Input and Expected Output**
 
-| **Invalid Input**             | **Expected Output** |
-|-------------------------------|---------------------|
-| `divide(10, 0)`               | `Handle Exception`  |
-| `add more cases in necessary` | `...`               |
+| **Invalid Input**                     | **Expected Output** |
+|---------------------------------------|---------------------|
+| `test_get_nutrition_breakdown(-$59)`  | `"food not found`   |
+
 
 - **2) Code for the Test Function**
 ```python
-def test_divide_invalid():
-    with pytest.raises(ValueError) as exc_info:
-        divide(10, 0)
+def test_get_nutrient_breakdown_invalid(food_item):
+    assert get_nutrient_breakdown_invalid("Chair") == {"Food not found}
     assert exc_info.type is ValueError
 ```
+
+
+
+
+
 
 ### Test Case 3:
 - **Test Function/Module**
