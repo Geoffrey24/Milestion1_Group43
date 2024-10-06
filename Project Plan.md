@@ -7,9 +7,10 @@
 
 | Student No. | Full Name            | GitHub Username | Contribution (sum to 100%) | 
 |-------------|----------------------|-----------------|----------------------
-| s5329877    | Geofrry Karuga       | Geoffrey24      |  Equal               |
-| s5404089    | Mohammad Rashed khan | Rashed1808      | 50%or Equal          |
-| s5404089    | Micheal   Piva       |                 | 0%                   |
+| s5329877    | Geofrry Karuga       | Geoffrey24      | 33.3% or Equal               |
+| s5404089    | Mohammad Rashed khan | Rashed1808      | 33.3% or Equal          |
+| s5404089    | Micheal   Piva       |                 | 33.3% or equal
+|
 
 
 ### Brief Description of Contribution
@@ -18,7 +19,11 @@ Please Describe what you have accomplished in this group project.
 - s5329877, Geofrry Karuga
   - Accomplishments: Done Create Github respiratories, project plan overview, System vision and Overview, <span style="color:red">test summary of the coverage test report, the first two features of executive summary, test summary of the Unit testing report</span>
 - s5404089, Mohammad khan 
-  - Accomplishments: Done Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION
+  - Accomplishments: Done Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION, 
+  - <span style="color:red">branch coverage test report,feature five of the executive summary,updated ghant chat updated</span>
+ 
+  - Michael Piva
+  -<span style="color:red">statement coverage report ,  feature three and four of the application of excutive summary,
 
 
 <div style="page-break-after: always;"></div>
@@ -203,6 +208,7 @@ Resources: Project Manager
 
 <div style="page-break-after: always;"></div>
 
+<img width="1421" alt="Screenshot 2024-10-06 at 12 13 51 PM" src="https://github.com/user-attachments/assets/1472153d-b930-491a-ae33-a185e891cb0a">
 
 
 ## 1. Project Overview
@@ -234,13 +240,17 @@ Define the activities required for your project based on the WBS, and assign res
 |--------------|-----------------------------|------------------------------|----------|--------------------------|
 | 1            | PROJECT PLAN & DOCUMENTAION | planning and documentations  | 4   days | Geoffrey                 |
 | 2            | WBS                         | whole work structure on xl   | 3   days | mohammad khan            |
-| 3            | GHANT CHAT                  | visual representation on xl  | 2   days | mohammad khan            |
-
+| 3            | GHANT CHAT                  | visual representation on xl  | 2   days | mohammad khan 
+4               statement coverage report     100% coverage statement attain 6 days     michael piva
+5               branch coverage report        100% branch coverage report attained  5 days  mohammad khan
 
 ## 4. Gantt Chart
 You have to use the provided Gantt chart template.  
 
 Use the provided Gantt chart template to list all items from the Activity Definition along with relevant estimates 
 and scheduling. Ensure that the Gantt chart reflects the activity definitions from Section 3. Track actual start 
-times and durations. Besides including Gantt chart here, you should also submit your Gantt chart file separately.
+times and durations. Besides including Gantt chart here, you s
+
+<img width="1421" alt="Screenshot 2024-10-06 at 12 13 51 PM" src="https://github.com/user-attachments/assets/e2047555-d23a-459b-a97d-c1f8107d5b6a">
+hould also submit your Gantt chart file separately.
 ![Gantt Chart](./Gantt_chart.png)
