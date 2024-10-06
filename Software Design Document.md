@@ -9,7 +9,7 @@
 |----------------|----------------|
 | s5329877       | Geofrry Karuga |
 | s5404089       | MOHAMMAD KHAN  | 
-|       |     | 
+| s5293924      |  michael piva 
 
 
 <div style="page-break-after: always;"></div>
@@ -38,7 +38,11 @@
   * [4. User Interface Design](#4-user-interface-design)
     * [4.1 Structural Design](#41-structural-design)
     * [4.2	Visual Design](#42visual-design)
+  *[5.* 5.1 unit testing (statement test report and branch coverage report)
+    * 5.2 exicutive summary of five feature of our applications <div style=red>
+    * 
 <!-- TOC -->
+  
 
 
 <div style="page-break-after: always;"></div>
@@ -478,4 +482,22 @@ Feedback Mechanisms: Include status messages and visual indicators to guide user
 The design choices aim to create a user-friendly interface that is both functional and efficient, ensuring users can easily access, analyze, and export nutritional information.
 
 
+
+
+* 5.1 unit testing (statement test report and branch coverage report)
+
+![image](https://github.com/user-attachments/assets/c57e446b-083e-4b69-9867-8cd85a80900a)
+![image<img width="1436" alt="Screenshot 2024-10-06 at 11 24 43 AM" src="https://github.com/user-attachments/assets/79a6f803-1867-4168-8f49-7640d1bd545d">
+ (1)](https://github.com/user-attachments/assets/9168af37-5195-4024-8955-3759e56fc1e8)
+
+    * 5.2 exicutive summary of five feature of our applications
+
+    statement coverage report 
+    ![Attachment](https://github.com/user-attachments/assets/404ae3fb-d2dc-4105-8c13-3215a31db2f0)
+
+    * branch cov
+    <img width="1440" alt="Screenshot 2024-10-06 at 11 38 30 AM" src="https://github.com/user-attachments/assets/8a4b45ef-1336-4810-b46f-88f5d2f22ba0">
+
+    
+<!-- TOC -->5.1 
 
