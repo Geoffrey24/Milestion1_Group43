@@ -6,17 +6,17 @@
 ### Team members 
 
 | Student No. | Full Name            | GitHub Username | Contribution (sum to 100%) | 
-|-------------|----------------------|-----------------|----------------------------
-| s5329877    | Geofrry Karuga       | Geoffrey24      | 50% or Equal               |
-| s5404089    | Mohammad Rashed khan | Rashed1808      | 50%or Equal                |
-| s5404089    | Micheal   Piva       |                 | 0%                         |
+|-------------|----------------------|-----------------|----------------------
+| s5329877    | Geofrry Karuga       | Geoffrey24      |  Equal               |
+| s5404089    | Mohammad Rashed khan | Rashed1808      | 50%or Equal          |
+| s5404089    | Micheal   Piva       |                 | 0%                   |
 
 
 ### Brief Description of Contribution
 
 Please Describe what you have accomplished in this group project.
 - s5329877, Geofrry Karuga
-  - Accomplishments: Done Create Github respiratories, project plan overview, System vision and Overview
+  - Accomplishments: Done Create Github respiratories, project plan overview, System vision and Overview, <span style="color:red">test summary of the coverage test report, the first two features of executive summary, test summary of the Unit testing report</span>
 - s5404089, Mohammad khan 
   - Accomplishments: Done Design documentation and WBS ,GHANT CHAT,WORK ESTIMATION
 
